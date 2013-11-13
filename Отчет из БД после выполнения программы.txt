@@ -1,0 +1,24 @@
+SELECT * FROM reporter;
+
+MONITOR        ACTIVE   COMPLETE  TASKCOUNT ISS IST                             
+---------- ---------- ---------- ---------- --- ---                             
+[0/2]               0          0          0 no  no                              
+[5/2]               5          1          7 no  no                              
+[5/2]               4          3          7 no  no                              
+[5/2]               3          4          7 no  no                              
+[5/2]               1          6          7 no  no                              
+[5/2]               0          7          7 no  no                              
+[5/2]               0          7          7 no  no                              
+[5/2]               0          7          7 no  no                              
+[5/2]               0          7          7 no  no                              
+[5/2]               0          7          7 no  no                              
+[5/2]               0          7          7 no  no                              
+
+MONITOR        ACTIVE   COMPLETE  TASKCOUNT ISS IST                             
+---------- ---------- ---------- ---------- --- ---                             
+[5/2]               0          7          7 no  no                              
+[5/2]               0          7          7 no  no                              
+[5/2]               0          7          7 no  no                              
+[0/2]               0          7          7 yes yes                             
+
+15 rows selected.
